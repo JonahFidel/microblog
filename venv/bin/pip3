@@ -1,5 +1,4 @@
-#!/Users/jonahfidel/dev/microblog/venv/bin/python3
-
+#!/Users/jonahfidel/dev/microblog/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
